@@ -25,3 +25,6 @@ I am a developer and security researcher focused on building high-performance, p
 
 *   **[phishguard](https://github.com/Ramanpreet21/phishguard)** — A real-time zero-day phishing detector fusing deep learning text analysis with classical ML network forensics.
 *   **[AI-Study_planner](https://github.com/Ramanpreet21/AI-Study_planner)** — An adaptive optimization engine designed to map scheduling constraints against user burnout patterns.
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
