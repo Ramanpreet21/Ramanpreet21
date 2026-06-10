@@ -30,7 +30,7 @@ I am a developer and security researcher focused on building high-performance, p
 ### 📊 Activity & Insights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ramanpreet21&theme=flat" alt="Ramanpreet's Trophies" />
+  <[img src="https://github-profile-trophy.vercel.app/?username=Ramanpreet21&no-frame=true&no-bg=true" alt="Ramanpreet's Trophies" />
 </div>
 
 <br />
