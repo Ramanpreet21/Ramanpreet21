@@ -1,16 +1,27 @@
 ## Hi there 👋
-![GitHub Stats Card](https://ghstats.dev/api/card?username=Ramanpreet21&theme=midnight&border_radius=9&custom_title=my+stats)
-<!--
-**Ramanpreet21/Ramanpreet21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ramanpreet Singh Sidhu
 
-Here are some ideas to get you started:
+> Engineering secure systems at the intersection of machine learning and system-level architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a developer and security researcher focused on building high-performance, privacy-first software. My work bridges the gap between intelligent behavioral modeling and hardened software infrastructure, with a strong emphasis on local-first design and native Linux environments.
+
+---
+
+### Technical Focus
+
+*   **Intelligent Security** — Real-time threat mitigation, neural-network-backed forensics, and predictive classification.
+*   **Machine Learning** — Ensemble and fusion architectures combining deep learning sequential processing with statistical network heuristics.
+*   **System Architecture** — Audited, local-first utilities tightly integrated into Unix/Linux desktop environments.
+
+### Ecosystem & Stack
+
+*   **Core Systems** — Fedora Linux, Wayland, Tmux, LazyVim
+*   **Languages & Frameworks** — Python (FastAPI), C++, Java, Bash
+*   **Data & Intelligence** — Random Forest, XGBoost, CNN, LSTM architectures
+
+---
+
+### Selected Artifacts
+
+*   **[phishguard](https://github.com/Ramanpreet21/phishguard)** — A real-time zero-day phishing detector fusing deep learning text analysis with classical ML network forensics.
+*   **[AI-Study_planner](https://github.com/Ramanpreet21/AI-Study_planner)** — An adaptive optimization engine designed to map scheduling constraints against user burnout patterns.
