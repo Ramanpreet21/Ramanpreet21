@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Ramanpreet21&theme=midnight&border_radius=9&custom_title=my+stats)
 <!--
 **Ramanpreet21/Ramanpreet21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
